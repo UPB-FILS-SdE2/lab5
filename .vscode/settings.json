@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.detectLocale": "off",
+    "window.autoDetectColorScheme": false,
+    "workbench.colorTheme": "Default Dark+"
+}

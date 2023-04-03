@@ -1,0 +1,15 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rust-lang.rust-analyzer",
+                "bungcip.better-toml",
+				"mutantdino.resourcemonitor",
+				"vadimcn.vscode-lldb"
+            ]
+        }
+    },
+    "containerUser": "codespace",
+    "remoteUser": "codespace"
+}
